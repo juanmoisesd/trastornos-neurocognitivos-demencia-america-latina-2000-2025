@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Trastornos Neurocognitivos y Demencia en América Latina e Iberoamérica (2000-2025)",
+  "description": "Base de datos epidemiológica sobre trastornos neurocognitivos y demencia en América Latina e Iberoamérica (2000-2025)",
+  "url": "https://doi.org/10.5281/zenodo.19211345",
+  "identifier": "https://doi.org/10.5281/zenodo.19211345",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "de la Serna, Juan Moisés",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    }
+  },
+  "keywords": "demencia, Alzheimer, trastornos neurocognitivos, América Latina, Iberoamérica, epidemiología, salud mental",
+  "datePublished": "2025",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Zenodo"
+  },
+  "spatialCoverage": "América Latina e Iberoamérica",
+  "temporalCoverage": "2000/2025",
+  "isAccessibleForFree": true
+}
